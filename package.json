@@ -1,6 +1,6 @@
 {
   "name": "popupmenu",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Click to open menu list",
   "main": "index.js",
   "scripts": {
